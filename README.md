@@ -1,2 +1,0 @@
-# JavaSPringWebSocket
-JavaSPringWebSocket
